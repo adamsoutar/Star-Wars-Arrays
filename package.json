@@ -1,0 +1,21 @@
+{
+  "name": "star-wars-arrays",
+  "version": "1.0.0",
+  "description": "Index your items like George Lucas!",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "star-wars",
+    "star",
+    "wars",
+    "arrays",
+    "indexes"
+  ],
+  "author": "Adam Soutar",
+  "license": "unlicense",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
